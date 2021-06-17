@@ -31,4 +31,4 @@ hs_err_pid*
 
 # My Ignores
 javaZeroFile.java
-.vscode
+*.vscode
